@@ -1,0 +1,44 @@
+# Datasets and large raw data
+datasets/
+*.csv
+*.parquet
+
+# Temporary and generated files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+*.cache
+
+# Perl generated files
+blib/
+_build/
+Build
+Build.bat
+Makefile
+MYMETA.json
+MYMETA.yml
+pm_to_blib
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Academic delivery / internal files
+repomix-output.xml
+LEEME_*
+GIT_ENTREGA_FINAL.md
+
+# Old or intermediate experiments
+models/archive/
+models/old/
+reports/archive/*:Zone.Identifier
