@@ -43,6 +43,26 @@ These elements are also used to generate causal information for the machine lear
 
 ---
 
+## Project Screenshots
+
+### Market Visualization Interface
+
+![Market Visualization Interface](assets/images/market-interface.png)
+
+The graphical interface provides candlestick visualization, volume, ATR, replay controls, crosshair interaction, and multi-timeframe market analysis.
+
+### Market Structure and SMC Analysis
+
+![Market Structure and SMC Analysis](assets/images/smc-structure.png)
+
+The platform identifies and visualizes market-structure elements such as swing points, BOS, CHoCH, internal structure, and trend transitions.
+
+### SMC, Order Blocks and Volume Profile
+
+![SMC and Volume Profile](assets/images/smc-volume-profile.png)
+
+The analysis environment integrates structural information with Fair Value Gaps, Order Blocks, support/resistance levels, and Volume Profile references such as POC, VAH, and VAL.
+
 ## System Architecture
 
 The project can be divided into three main areas:
